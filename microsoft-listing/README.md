@@ -2,9 +2,9 @@
 
 ## URLs
 
-- Website: `https://pengmeng123.github.io/bookmarknest-site/`
-- Privacy policy: `https://pengmeng123.github.io/bookmarknest-site/privacy.html`
-- Support: `https://pengmeng123.github.io/bookmarknest-site/support.html`
+- Website: `https://pengmeng123.github.io/bookmarknest-site/microsoft-listing/`
+- Privacy policy: `https://pengmeng123.github.io/bookmarknest-site/microsoft-listing/privacy.html`
+- Support: `https://pengmeng123.github.io/bookmarknest-site/microsoft-listing/support.html`
 
 ## Product name
 
@@ -22,7 +22,7 @@ Bookmark content stays in browser storage by default. Optional encrypted Cloud S
 
 Free includes search, folders, tags, archive, delete, and JSON backup. Pro unlocks notes, saved views, Markdown and CSV export, bulk actions, background sync, mirror removals, and encrypted Cloud Sync.
 
-Pricing before taxes: $2.99/month, $24.99/year, or $49 once for Lifetime Pro. Cloud Sync retains up to five backup versions and may throttle changed backups to one per minute.
+BookmarkNest is currently in public testing. Test access is free and no payments are collected. Final paid plans and pricing will be set only after testing is complete.
 
 ## Search terms
 
@@ -39,4 +39,4 @@ X bookmarks, Twitter bookmarks, bookmark manager, research library, export bookm
 
 - Prepare Edge-compatible ZIP from the production extension build.
 - Add store icon, logos, and screenshots that show the extension's real UI.
-- Confirm the listing price copy, permission explanation, and privacy policy match the production build.
+- Confirm the public-testing copy, permission explanation, and privacy policy match the production build.
